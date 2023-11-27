@@ -47,8 +47,6 @@ ul {
 	width: 20%;
 	margin-right: 15%;
 }
-.imagem {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+.imagens {
+	justify-content: center
 }
