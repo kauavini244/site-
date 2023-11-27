@@ -1,1 +1,1 @@
-<alert = "sinta o aroma">
+alert('SINTA O AROMA');
